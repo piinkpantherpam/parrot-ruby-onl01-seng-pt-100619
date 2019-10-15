@@ -10,3 +10,6 @@ def parrot (name = "Squawk!")
   
 end
 
+def sayHi(name = "Beth")
+  "Hi, #{name}!"
+end
