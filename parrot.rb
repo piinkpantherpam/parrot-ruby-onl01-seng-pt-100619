@@ -7,7 +7,7 @@ def parrot
 end
 
 def parrot(sound = "Squawk!")
-  "Hello, #{sound}."
+  "Hello, #{sound}"
 end
 
 def sayHi(name = "Beth")
