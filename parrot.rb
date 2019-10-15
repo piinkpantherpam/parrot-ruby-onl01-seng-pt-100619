@@ -6,9 +6,8 @@ def parrot
 "Squawk!"
 end
 
-def parrot(name = "Squawk!")
-  ""
-  
+def parrot(sound = "Squawk")
+  "Hello, #{sound}!"
 end
 
 def sayHi(name = "Beth")
