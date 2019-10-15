@@ -9,7 +9,3 @@ end
 def parrot(sound = "Squawk!")
   puts ("#{sound}!")
 end
-
-def sayHi(name = "Beth")
-  "#{name}"
-end
