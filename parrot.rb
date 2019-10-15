@@ -11,5 +11,5 @@ def parrot(sound = "Squawk!")
 end
 
 def sayHi(name = "Beth")
-  "Hi, #{name}!"
+  "Hi, #{name}"
 end
